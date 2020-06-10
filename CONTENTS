@@ -1,0 +1,20 @@
+AZSNotSFML
+----------
+- https://github.com/flibitijibibo/AZSNotSFML
+- commit f8291c591d04ac304c4f5324163bc83287de77b7
+- 2016-09-02
+- public domain (stb)
+
+FMOD_SDL_stub
+-------------
+- https://github.com/rfht/FMOD_SDL_stub
+- commit 810f33215ee4aa5d38adb0704ee4032bb2874c32
+- 2019-09-16
+- zlib license
+
+SDL_image_compact
+-----------------
+- https://github.com/FNA-XNA/SDL_image_compact
+- commit 70bed2bc7e7ddb47cab6cf4e5832c01307c45d9e
+- 2018-10-10
+- zlib license
